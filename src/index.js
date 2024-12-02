@@ -12,7 +12,7 @@ app.use(express.static("public"));
 
 
 //placeholders for added task
-var task = ["buy a new udemy course", "practise with kubernetes"];
+var task = ["buy a new udemy courses", "practise with kubernetes"];
 //placeholders for removed task
 var complete = ["finish reading the book"];
 
