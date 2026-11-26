@@ -44,7 +44,7 @@
 ## :dart: About ##
 
 Simple To Do application built with Node.js and Express.js that lets you add tasks on a single page, store new and finished tasks in different arrays. Containerized with Docker and tested with NPM through GitHub Actions pipeline.
-# Test
+# Test2
 
 
 ## :sparkles: Features ##
